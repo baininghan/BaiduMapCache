@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="BaiduMapCache"
+  id="myeclipse.1499242652356"
+  context-root="/BaiduMapCache"
+  j2ee-spec="5.0"
+  archive="BaiduMapCache.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
